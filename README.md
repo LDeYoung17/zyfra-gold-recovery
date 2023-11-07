@@ -30,6 +30,10 @@ This project examines different machine learning models to evaluate the best one
 5. Set up a Jupyter kernel to use Python 3.9.13
 6. Select "Run All"
 
+<h2>Plans for updates</h2>
+
+There are no plans for updates at this time.
+
 
 <h2>Sample Graph</h2>
 
