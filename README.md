@@ -40,3 +40,10 @@ There are no plans for updates at this time.
 ![integrated_sample](https://github.com/LDeYoung17/zyfra-gold-recovery/assets/70500225/e35503cd-bdc6-4274-a846-31e41d8d8da1)
 
 
+<h2>Portfolio Link</h2>
+
+https://ldeyoung17.github.io/
+
+This is my portfolio where all my projects, including this one, can be found, as well as more information about my experience as a Data Scientist and Software Engineer.
+
+
