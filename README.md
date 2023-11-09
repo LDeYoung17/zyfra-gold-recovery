@@ -1,4 +1,4 @@
-# zyfra-gold-recovery
+# Gold Recovery and Concentration
 
 <h2>Summary</h2>
 
