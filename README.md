@@ -40,6 +40,9 @@ There are no plans for updates at this time.
 
 ![integrated_sample](https://github.com/LDeYoung17/zyfra-gold-recovery/assets/70500225/e35503cd-bdc6-4274-a846-31e41d8d8da1)
 
+<h2>Demonstration Video</h2>
+
+https://drive.google.com/file/d/1I-Lv3jtHowKxjBbdFjUowtOnfI95ZFID/view?usp=drive_link
 
 <h2>Portfolio Link</h2>
 
